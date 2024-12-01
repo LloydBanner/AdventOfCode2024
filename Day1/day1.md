@@ -1,3 +1,5 @@
+Today was a good challenge to get started with rust although I think I may have imported quite a few includes that weren't needed.
+
 Below I have copied the challenge for the day from the Advent of Code website
 
 ### Day 1: Historian Hysteria

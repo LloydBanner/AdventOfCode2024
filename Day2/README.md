@@ -1,4 +1,4 @@
-Today was a good challenge to get started with rust although I think I may have imported quite a few includes that weren't needed.
+Took me a while to do part 2 of this one while still getting my head around rust
 
 Below I have copied the challenge for the day from the Advent of Code website
 

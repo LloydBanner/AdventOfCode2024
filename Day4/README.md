@@ -22,23 +22,14 @@ The actual word search will be full of letters instead. For example:
 
 <pre>
 MMMSXXMASM
-
 MSAMXMSMSA
-
 AMXSXMAAMM
-
 MSAMASMSMX
-
 XMASAMXAMM
-
 XXAMMXXAMA
-
 SMSMSASXSS
-
 SAXAMASAAA
-
 MAMMMXMMMM
-
 MXMXAXMASX
 </pre>
 
@@ -46,23 +37,14 @@ In this word search, XMAS occurs a total of 18 times; here's the same word searc
 
 <pre>
 ....XXMAS.
-
 .SAMXMS...
-
 ...S..A...
-
 ..A.A.MS.X
-
 XMASAMX.MM
-
 X.....XA.A
-
 S.S.S.S.SS
-
 .A.A.A.A.A
-
 ..M.M.M.MM
-
 .X.X.XMASX
 </pre>
 
@@ -76,9 +58,7 @@ Looking for the instructions, you flip over the word search to find that this is
 
 <pre>
 M.S
-
 .A.
-
 M.S
 </pre>
 
@@ -88,23 +68,14 @@ Here's the same example from before, but this time all of the X-MASes have been 
 
 <pre>
 .M.S......
-
 ..A..MSMS.
-
 .M.S.MAA..
-
 ..A.ASMSM.
-
 .M.S.M....
-
 ..........
-
 S.S.S.S.S.
-
 .A.A.A.A..
-
 M.M.M.M.M.
-
 ..........
 </pre>
 

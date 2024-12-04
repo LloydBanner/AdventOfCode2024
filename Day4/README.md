@@ -1,4 +1,4 @@
-I quite liked the challenge today although I overcomplicated part 2 originaly by looking for + shapes as well a x shapes.
+I quite liked the challenge today although I overcomplicated part 2 originally by looking for + shapes as well as x shapes.
 
 Below I have copied the challenge for the day from the Advent of Code website
 
@@ -12,13 +12,9 @@ This word search allows words to be horizontal, vertical, diagonal, written back
 
 <pre>
 ..X...
-
 .SAMX.
-
 .A..A.
-
 XMAS.S
-
 .X....
 </pre>
 

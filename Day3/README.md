@@ -1,4 +1,4 @@
-Slightly nicer than day 2, learn't about rust vector indexing today
+Slightly nicer than day 2, learn't about rust vector indexing today and how if you iterate through a vector you can't access it anymore
 
 Below I have copied the challenge for the day from the Advent of Code website
 

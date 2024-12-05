@@ -1,3 +1,5 @@
+Not too bad of a challenge today, although I know my sort could have been considerably more efficient but I didn't have much time today
+
 ### Day 5: Print Queue
 
 Satisfied with their search on Ceres, the squadron of scholars suggests subsequently scanning the stationery stacks of sub-basement 17.

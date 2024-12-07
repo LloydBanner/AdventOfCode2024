@@ -3,7 +3,7 @@ use std::collections::HashMap;
 
 fn main() {
     //PART 1 Solution
-    let file_path = "smallInput.txt";
+    let file_path = "input.txt";
     println!("In file {file_path}");
 
     let contents = fs::read_to_string(file_path)
